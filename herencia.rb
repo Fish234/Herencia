@@ -1,3 +1,4 @@
+#In process
 class Appointment
     attr_accessor :location, :purpose, :hour, :min
     def initialize(location, purpose, hour, min)
